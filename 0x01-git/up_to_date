@@ -4,6 +4,4 @@ git config --global user.name
  git add .
  git commit -m "  "
 git push
-
-
-touch 
+touch
